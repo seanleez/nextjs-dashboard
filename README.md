@@ -6,6 +6,11 @@ A modern, full-stack dashboard application built with Next.js 15, featuring auth
 
 **Deployed at:** [https://nextjs-dashboard-sandy-ten-72.vercel.app/](https://nextjs-dashboard-sandy-ten-72.vercel.app/)
 
+```
+account: user@nextmail.com
+password: 123456
+```
+
 ## ✨ Features
 
 - **Modern UI/UX**: Clean, responsive design with Tailwind CSS
